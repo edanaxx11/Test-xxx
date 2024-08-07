@@ -1,0 +1,52 @@
+{
+  "setup": {
+    "city": "mae sai",
+    "delay": 5
+  },
+  "config": {
+    "options": {
+      "watch-url": [
+        "https://www.youtube.com/watch?v=O0StKlRHVeE",
+        "https://www.twitch.tv/nocopyrightsounds"
+      ],
+      "timestamp": "{end:1735664400}"
+    },
+    "text-1": [
+      "{NF4(꒰ {hour:1} : {min:1} ꒱ ♪ ꒰ {th=date} / {th=month:1} / {en=year:2} ꒱)}"
+    ],
+    "text-2": [
+      "⋆˚࿔ ˚₊‧꒰ა {NF4({ping})} 𝐦𝐬 ໒꒱ ‧₊˚ 𝜗𝜚˚⋆ ᓚ₍ ^. .^₎",
+      "⋆˚࿔ ˚₊‧꒰ა {NF4({ping})} 𝐦𝐬 ໒꒱ ‧₊˚ 𝜗𝜚˚⋆ ദ്ദി（• ˕ •マ.ᐟ",
+      "⋆˚࿔ ˚₊‧꒰ა {NF4({ping})} 𝐦𝐬 ໒꒱ ‧₊˚ 𝜗𝜚˚⋆ ₍⑅ᐢ..ᐢ₎",
+      "⋆˚࿔ ˚₊‧꒰ა {NF4({ping})} 𝐦𝐬 ໒꒱ ‧₊˚ 𝜗𝜚˚⋆ ૮꒰ ˶• ༝ •˶꒱ა ♡"
+    ],
+    "text-3": [
+      "⋆.˚✮ ( {NF4(🌡️ {temp:c})} °𝐂 ) ✮˚.⋆ (๑>؂•̀๑)",
+      "⋆.˚✮ ( {NF4(🍃 {wind:kph})} 𝐤𝐦/𝐡 ) ✮˚.⋆ ૮₍ ˃ ⤙ ˂ ₎ა"
+    ],
+    "bigimg": [
+      "https://i.pinimg.com/564x/51/b8/3a/51b83a6f0843c5929c5de3784a21a1fe.jpg",
+      null,
+      "https://i.pinimg.com/564x/90/8e/f3/908ef3148c307905e6e6386e2c03589c.jpg",
+      null
+    ],
+    "smallimg": [
+      null,
+      "https://i.pinimg.com/564x/ff/ff/46/ffff4652398234f989006b693849fb3e.jpg",
+      null,
+      "https://i.pinimg.com/564x/51/9f/63/519f633a8bcce3d7b623d5e3cf11a368.jpg"
+    ],
+    "button-1": [
+      {
+        "name": "꒰১₊˚Tiktok☆˚໒꒱",
+        "url": "https://cdn.discordapp.com/attachments/1270714449497559142/1270714489930645505/l_2018-12-20_01.48.51.jfif?ex=66b4b497&is=66b36317&hm=0072c801227e58a83f6978010fb422c722f2584e168789c803fd76197bd98ddc&"
+      }
+    ],
+    "button-2": [
+      {
+        "name": "꒰১₊˚Youtube☆˚໒꒱",
+        "url": "https://www.youtube.com/watch?v=MFtfIpt7DfY"
+      }
+    ]
+  }
+}
